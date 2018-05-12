@@ -1,0 +1,37 @@
+_repo: The-Pot-of-Gold-and-Other-Stories_16468
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    - Wilkins, Mary Eleanor
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Wilkins, Mary Ella
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+description: ''
+gutenberg_issued: '2005-08-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16468'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'New England -- Social life and customs -- Fiction'
+tableOfContents: The pot of gold -- The cow with the golden horns -- Princess Rosetta
+  and the pop-corn man -- The Christmas monks -- The pumpkin giant -- The Christmas
+  masquerade -- Dill -- The silver hen -- Toby -- The patchwork school -- The squire's
+  sixpence -- A plain case -- A stranger in the village -- The bound girl -- Deacon
+  Thomas Wales's will -- The adopted daughter.
+title: The Pot of Gold, and Other Stories
+url: http://www.gutenberg.org/ebooks/16468
