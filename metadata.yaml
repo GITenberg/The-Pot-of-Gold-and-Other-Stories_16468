@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/495
     wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16468#The-Pot-of-Gold-and-Other-Stories
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text
 identifiers:
